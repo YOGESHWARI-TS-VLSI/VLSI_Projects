@@ -1,0 +1,26 @@
+# Compiled files
+*.out
+*.vvp
+*.o
+
+# Waveform files
+*.vcd
+*.fst
+
+# GTKWave files
+*.gtkw
+
+# Logs
+*.log
+
+# Backup
+*~
+*.bak
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+ 

@@ -1,0 +1,16 @@
+# Compile of fifo.v was successful.
+# Compile of fifo_tb.v failed with 5 errors.
+# Compile of fifo_tb.v was successful.
+vsim -gui work.fifo_tb
+# vsim -gui work.fifo_tb 
+# Start time: 08:49:47 on Feb 20,2026
+# Loading work.fifo_tb
+# Loading work.fifo
+add wave -position insertpoint sim:/fifo_tb/*
+run -all
+# ** Note: $finish    : C:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/fifo_project/fifo_tb.v(32)
+#    Time: 130 ps  Iteration: 0  Instance: /fifo_tb
+# 1
+# Break in Module fifo_tb at C:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/fifo_project/fifo_tb.v line 32
+# End time: 09:05:32 on Feb 20,2026, Elapsed time: 0:15:45
+# Errors: 0, Warnings: 8

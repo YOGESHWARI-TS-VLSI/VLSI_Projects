@@ -1,0 +1,194 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+valu
+!s110 1771558943
+!i10b 1
+!s100 PMBMeWL1n[^KdA;8k<MJ73
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ILSk`1KdX95I2eJ^kcjnC_0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/alu_project
+w1771558933
+8C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu.v
+FC:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu.v
+!i122 0
+L0 1 25
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1771558943.000000
+!s107 C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu.v|
+!i113 1
+o-work work
+Z4 tCvgOpt 0
+Xalu_driver_sv_unit
+Z5 !s115 alu_if
+Z6 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1771558953
+Vb5bT6B8Wo>NnU<02:Fe0c1
+r1
+!s85 0
+!i10b 1
+!s100 fG2QmFa0;W4mZUfgMMV[P2
+Ib5bT6B8Wo>NnU<02:Fe0c1
+!i103 1
+S1
+R2
+w1771558828
+8C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_driver.sv
+FC:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_driver.sv
+!i122 2
+Z7 L0 1 0
+R3
+31
+!s108 1771558953.000000
+!s107 C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_driver.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_driver.sv|
+!i113 1
+Z8 o-work work -sv
+R4
+Yalu_if
+Z9 !s105 top_sv_unit
+Z10 DXx4 work 11 top_sv_unit 0 22 BbLN^dD2hLh6dI::>UIBU0
+R6
+Z11 !s110 1771558964
+!i10b 1
+!s100 aSm0m^cI5lBjgHjIZ0:n]2
+R0
+IkH;@Z@0^Kd=0Xl0M8z@hi3
+R1
+S1
+R2
+w1771558812
+8alu_if.sv
+Z12 Falu_if.sv
+!i122 4
+R7
+R3
+r1
+!s85 0
+31
+Z13 !s108 1771558964.000000
+Z14 !s107 alu_scoreboard.sv|alu_monitor.sv|alu_driver.sv|alu_if.sv|C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\top.sv|
+Z15 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\top.sv|
+!i113 1
+R8
+R4
+Xalu_monitor_sv_unit
+R5
+R6
+!s110 1771558969
+VBg<T^^B_eG=O^?ci4CAJ<0
+r1
+!s85 0
+!i10b 1
+!s100 <oK62nhU9H3f]T4_YdUJ01
+IBg<T^^B_eG=O^?ci4CAJ<0
+!i103 1
+S1
+R2
+w1771558886
+8C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_monitor.sv
+FC:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_monitor.sv
+!i122 5
+R7
+R3
+31
+!s108 1771558969.000000
+!s107 C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_monitor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_monitor.sv|
+!i113 1
+R8
+R4
+Xalu_scoreboard_sv_unit
+R6
+!s110 1771558957
+VMc=nAZYNK3h@Lgm;mzzB=0
+r1
+!s85 0
+!i10b 1
+!s100 6m5BXW<BPcO_:2U9miY=R1
+IMc=nAZYNK3h@Lgm;mzzB=0
+!i103 1
+S1
+R2
+w1771558866
+8C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_scoreboard.sv
+FC:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_scoreboard.sv
+!i122 3
+R7
+R3
+31
+!s108 1771558956.000000
+!s107 C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_scoreboard.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\alu_scoreboard.sv|
+!i113 1
+R8
+R4
+vtop
+R6
+R10
+R11
+R1
+r1
+!s85 0
+!i10b 1
+!s100 l0ZznoQFzR4Sna<Tf8C<h3
+IK5k:6:b]UY`nAdl@MGG6c2
+R9
+S1
+R2
+Z16 w1771558911
+Z17 8C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\top.sv
+Z18 FC:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\alu_project\top.sv
+!i122 4
+L0 8 34
+R3
+31
+R13
+R14
+R15
+!i113 1
+R8
+R4
+Xtop_sv_unit
+R5
+R6
+R11
+VBbLN^dD2hLh6dI::>UIBU0
+r1
+!s85 0
+!i10b 1
+!s100 da^Z3]<<__2h0GWm8Cnl@0
+IBbLN^dD2hLh6dI::>UIBU0
+!i103 1
+S1
+R2
+R16
+R17
+R18
+R12
+Falu_driver.sv
+Falu_monitor.sv
+Falu_scoreboard.sv
+!i122 4
+R7
+R3
+31
+R13
+R14
+R15
+!i113 1
+R8
+R4

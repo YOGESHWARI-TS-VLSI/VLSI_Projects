@@ -1,0 +1,135 @@
+# Compile of alu.v was successful.
+# Compile of alu_if.sv was successful.
+# Compile of alu_driver.sv was successful.
+# Compile of alu_scoreboard.sv was successful.
+# Compile of top.sv was successful.
+# Compile of alu_monitor.sv was successful.
+vsim -gui work.top
+# vsim -gui work.top 
+# Start time: 09:13:08 on Feb 20,2026
+# Loading sv_std.std
+# Loading work.top_sv_unit
+# Loading work.top
+# Loading work.alu_if
+# Loading work.alu
+add wave -position insertpoint sim:/top/*
+# ** UI-Msg: (vish-4014) No objects found matching '/top/*'.
+add wave -position insertpoint  \
+sim:/top/vif/A
+add wave -position insertpoint  \
+sim:/top/vif/B
+add wave -position insertpoint  \
+sim:/top/vif/opcode
+add wave -position insertpoint  \
+sim:/top/vif/result
+add wave -position insertpoint  \
+sim:/top/vif/zero
+add wave -position insertpoint  \
+sim:/top/vif/carry
+run -all
+# MONITOR: A=184 B=38 opcode=4 result=158
+# PASS
+# MONITOR: A=182 B=198 opcode=4 result=112
+# PASS
+# MONITOR: A=114 B=46 opcode=5 result=0
+# PASS
+# MONITOR: A=58 B=106 opcode=2 result=42
+# PASS
+# MONITOR: A=111 B=86 opcode=3 result=127
+# PASS
+# MONITOR: A=212 B=174 opcode=5 result=0
+# PASS
+# MONITOR: A=219 B=5 opcode=5 result=0
+# PASS
+# MONITOR: A=32 B=229 opcode=1 result=59
+# PASS
+# MONITOR: A=37 B=233 opcode=1 result=60
+# PASS
+# MONITOR: A=138 B=88 opcode=1 result=50
+# PASS
+# MONITOR: A=86 B=201 opcode=3 result=223
+# PASS
+# MONITOR: A=64 B=128 opcode=0 result=192
+# PASS
+# MONITOR: A=212 B=142 opcode=0 result=98
+# PASS
+# MONITOR: A=151 B=37 opcode=1 result=114
+# PASS
+# MONITOR: A=88 B=81 opcode=2 result=80
+# PASS
+# MONITOR: A=35 B=84 opcode=1 result=207
+# PASS
+# MONITOR: A=90 B=230 opcode=2 result=66
+# PASS
+# MONITOR: A=101 B=234 opcode=5 result=1
+# PASS
+# MONITOR: A=239 B=68 opcode=5 result=0
+# PASS
+# MONITOR: A=203 B=71 opcode=5 result=0
+# PASS
+# MONITOR: A=242 B=225 opcode=3 result=243
+# PASS
+# MONITOR: A=48 B=118 opcode=5 result=1
+# PASS
+# MONITOR: A=210 B=22 opcode=3 result=214
+# PASS
+# MONITOR: A=64 B=181 opcode=3 result=245
+# PASS
+# MONITOR: A=115 B=160 opcode=1 result=211
+# PASS
+# MONITOR: A=29 B=212 opcode=5 result=1
+# PASS
+# MONITOR: A=154 B=132 opcode=1 result=22
+# PASS
+# MONITOR: A=137 B=10 opcode=3 result=139
+# PASS
+# MONITOR: A=254 B=76 opcode=4 result=178
+# PASS
+# MONITOR: A=195 B=136 opcode=0 result=75
+# PASS
+# MONITOR: A=155 B=243 opcode=5 result=1
+# PASS
+# MONITOR: A=183 B=11 opcode=1 result=172
+# PASS
+# MONITOR: A=0 B=9 opcode=0 result=9
+# PASS
+# MONITOR: A=193 B=4 opcode=0 result=197
+# PASS
+# MONITOR: A=175 B=111 opcode=1 result=64
+# PASS
+# MONITOR: A=205 B=108 opcode=2 result=76
+# PASS
+# MONITOR: A=169 B=252 opcode=3 result=253
+# PASS
+# MONITOR: A=167 B=59 opcode=0 result=226
+# PASS
+# MONITOR: A=161 B=133 opcode=0 result=38
+# PASS
+# MONITOR: A=160 B=21 opcode=4 result=181
+# PASS
+# MONITOR: A=196 B=139 opcode=0 result=79
+# PASS
+# MONITOR: A=189 B=108 opcode=1 result=81
+# PASS
+# MONITOR: A=171 B=170 opcode=1 result=1
+# PASS
+# MONITOR: A=178 B=86 opcode=4 result=228
+# PASS
+# MONITOR: A=212 B=225 opcode=4 result=53
+# PASS
+# MONITOR: A=33 B=96 opcode=1 result=193
+# PASS
+# MONITOR: A=6 B=244 opcode=2 result=4
+# PASS
+# MONITOR: A=202 B=40 opcode=3 result=234
+# PASS
+# MONITOR: A=175 B=236 opcode=2 result=172
+# PASS
+# MONITOR: A=70 B=72 opcode=5 result=1
+# PASS
+# ** Note: $finish    : C:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/alu_project/top.sv(38)
+#    Time: 500 ns  Iteration: 0  Instance: /top
+# 1
+# Break in Module top at C:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/alu_project/top.sv line 38
+# End time: 10:36:40 on Feb 20,2026, Elapsed time: 1:23:32
+# Errors: 0, Warnings: 15

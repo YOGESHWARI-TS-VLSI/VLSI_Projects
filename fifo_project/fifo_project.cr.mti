@@ -1,0 +1,15 @@
+{C:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/fifo_project/fifo_tb.v} {1 {vlog -work work -stats=none {C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\fifo_project\fifo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo_tb
+
+Top level modules:
+	fifo_tb
+
+} {} {}} {C:/Users/YOGESHWARI TS/OneDrive/Documents/VLSI/fifo_project/fifo.v} {1 {vlog -work work -stats=none {C:\Users\YOGESHWARI TS\OneDrive\Documents\VLSI\fifo_project\fifo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}}
